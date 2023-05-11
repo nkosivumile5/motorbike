@@ -5,8 +5,8 @@ function Card() {
     const [toggle, setToggle] = useState(false)
 
     const products = [
-        {name: '', price: 'R310,700', image: 'https://www.motorhype.co.uk/wp-content/uploads/2021/07/Used-motorbikes-1.jpg'},
-        {name: '', price: 'R12650,00', image: 'https://cdn.shopify.com/s/files/1/0003/3151/3875/collections/motorbikes.jpg?v=1586199980'},
+        {name: '', price: 'R12650,00', image: 'https://www.motorhype.co.uk/wp-content/uploads/2021/07/Used-motorbikes-1.jpg'},
+        {name: '', price: 'R3107,00', image: 'https://cdn.shopify.com/s/files/1/0003/3151/3875/collections/motorbikes.jpg?v=1586199980'},
         {name: '', price: 'R47950,00', image: 'https://detailingadelaide.com.au/wp-content/uploads/2018/12/Motorbike-cleaning-Adelaide.jpg'},
         {name: '', price: 'R300,000', image: 'https://m.atcdn.co.uk/ect/media/w1024/d42291348f79457182dde8b63f525e1f_50cc.jpg'},
         {name: '', price: 'R273,000', image: 'https://www.motorcycle.com/blog/wp-content/uploads/2021/02/Ultra-Limited_crop.jpg'},
